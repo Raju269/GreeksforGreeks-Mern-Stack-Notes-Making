@@ -80,7 +80,8 @@ section {
     padding: 20px;
     width: 250px;
     border-radius: 10px;
-    background: #f4f4f4;
+    background: #f29045;
+    /* border: 0.5px solid black; */
     transition: 0.3s;
 }
 
